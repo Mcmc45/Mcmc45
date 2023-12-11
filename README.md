@@ -1,11 +1,11 @@
 # Olá Bem-Vindo ao meu perfil!🎉
 
-### Sobre mim:🤍
+### Sobre mim:
 
 Sou um desenvolvedor front-end intermediario, atuando como web desenvolvedor.
 Além disso , sou habil em resolução de problemas . 
 Facilidade de comunicação interpessoal , assim como capacidade de 
-trabalhar em equipe e colaboar com os outros membros 
+trabalhar em equipe e colaboar com os outros membros .
 
 ## Skills:
 
@@ -21,6 +21,7 @@ trabalhar em equipe e colaboar com os outros membros
 ## 2. 📊GitHub stats:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mcmc45&theme=blue-green)
+
 ![Stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcmc45&theme=blue-green)
 
 
