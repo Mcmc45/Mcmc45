@@ -20,4 +20,4 @@ trabalhar em equipe e colaboar com os outros membros
 
 ## 2. 📊GitHub stats:
 
-![Stats](https://github-readme-stats.vercel.app/api?username={Mcmc45}&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mcmc45&theme=blue-green)
