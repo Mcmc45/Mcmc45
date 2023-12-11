@@ -1,6 +1,6 @@
-# Olá Bem-Vindo ao meu perfil!
+# Olá Bem-Vindo ao meu perfil!🎉
 
-### Sobre mim:
+### Sobre mim:🤍
 
 Sou um desenvolvedor front-end intermediario, atuando como web desenvolvedor.
 Além disso , sou habil em resolução de problemas . 
@@ -9,7 +9,7 @@ trabalhar em equipe e colaboar com os outros membros
 
 ## Skills:
 
-### 1. Linguagem de progamação :
+###  1. Linguagem de progamação :
 
 ![Python logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue);
 ![Html logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
