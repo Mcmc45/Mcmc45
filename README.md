@@ -25,6 +25,6 @@ trabalhar em equipe e colaboar com os outros membros .
 ![Stats lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcmc45&theme=blue-green)
 
 
-![Stats logo](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcmc45anuraghazra&hide_progress=true&theme=gruvbox&rank_icon=github)
+![Stats logo](https://github-readme-stats.vercel.app/api/top-langs/?username=Mcmc45&hide_progress=true&theme=gruvbox&rank_icon=github)
 
 
